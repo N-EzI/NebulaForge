@@ -2,7 +2,7 @@ cd path/to/your/code/folder
 python -m venv venv
 venv\Scripts\activate
 source venv/bin/activate
-pip install Flask
+ pipinstall Flask
 from datetime import datetime
 import random
 import requests
